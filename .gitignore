@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.out
+*.layout
+*.depend
+*.save
+bin/
+build/
