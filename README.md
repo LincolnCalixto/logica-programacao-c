@@ -1,54 +1,32 @@
-# Lógica de Programação em C
+# 💻 Lógica de Programação em C
 
-Repositório com exercícios desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas, com foco em fundamentos de programação, estruturas de decisão e estruturas de repetição.
+Repositório com exercícios desenvolvidos durante minha graduação em Análise e Desenvolvimento de Sistemas (UTFPR).
 
-## Conteúdos trabalhados
+## 📚 Conteúdos abordados
 
-- Entrada e saída de dados em C
-- Operadores aritméticos e relacionais
-- Estruturas de decisão: `if`, `else`, `switch`
-- Estruturas de repetição: `for`, `while`, `do while`
-- Validação de entrada
-- Cálculo de médias, percentuais e somatórios
-- Manipulação de números, datas, divisores, fatoriais e séries
-- Problemas aplicados: caixa, investimento, Fibonacci, dados, IMC e estatísticas
+- Estruturas sequenciais
+- Estruturas de decisão
+- Estruturas de repetição
+- Validação de entrada de dados
+- Operações matemáticas e algoritmos
 
-## Organização
+## 🚀 Projetos em destaque
 
-```text
-00-enunciados/
-01-estrutura-sequencial/
-02-estrutura-de-decisao/
-03-estrutura-de-repeticao/
-04-projetos-destaque/
-99-estudos-e-rascunhos/
-```
+- 💰 Caixa eletrônico
+- 🛒 Sistema de caixa de loja
+- 📈 Simulação de investimento
+- 🔢 Fibonacci
+- 🔍 Números primos
+- 📊 Análise de dados (altura e sexo)
 
-## Projetos em destaque
+## 🧠 Habilidades desenvolvidas
 
-- Caixa de mercado
-- Fibonacci
-- Aplicações financeiras
-- Probabilidade com dados
-- Análise de altura e sexo
-- Validação de datas
-- Número mágico
-- IMC
+- Lógica de programação
+- Resolução de problemas
+- Organização de código
+- Boas práticas iniciais
+- Tratamento de erros (ex: divisão por zero)
 
-## Como compilar um exercício
+## 🎯 Objetivo
 
-```bash
-gcc arquivo.c -o programa
-./programa
-```
-
-No Windows, usando MinGW:
-
-```bash
-gcc arquivo.c -o programa.exe
-programa.exe
-```
-
-## Objetivo
-
-Consolidar minha base em lógica de programação e preparar minha transição para desenvolvimento de software, especialmente com foco futuro em Java, Angular, SQL e Git.
+Consolidar minha base em programação para atuar como desenvolvedor, com foco em backend (Java) e desenvolvimento web (Angular).
