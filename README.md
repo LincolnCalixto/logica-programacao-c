@@ -2,6 +2,12 @@
 
 Repositório com exercícios desenvolvidos durante minha graduação em Análise e Desenvolvimento de Sistemas (UTFPR).
 
+## 📁 Estrutura do repositório
+
+- 01-decisao → exercícios com estruturas condicionais  
+- 02-repeticao → exercícios com laços de repetição  
+- 04-projetos-destaque → aplicações práticas em C  
+
 ## 📚 Conteúdos abordados
 
 - Estruturas sequenciais
