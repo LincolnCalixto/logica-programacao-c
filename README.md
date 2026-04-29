@@ -25,6 +25,14 @@ Repositório com exercícios desenvolvidos durante minha graduação em Análise
 - 🔍 Números primos
 - 📊 Análise de dados (altura e sexo)
 
+## ▶️ Como executar
+
+1. Compile o programa:
+   gcc nome_do_arquivo.c -o programa
+
+2. Execute:
+   ./programa
+
 ## 🧠 Habilidades desenvolvidas
 
 - Lógica de programação
@@ -36,3 +44,10 @@ Repositório com exercícios desenvolvidos durante minha graduação em Análise
 ## 🎯 Objetivo
 
 Consolidar minha base em programação para atuar como desenvolvedor, com foco em backend (Java) e desenvolvimento web (Angular).
+
+
+## 📈 Evolução
+
+Este repositório representa minha evolução na lógica de programação, desde exercícios iniciais até soluções mais estruturadas e organizadas.
+
+A organização dos arquivos e melhoria dos códigos fazem parte do meu processo de aprendizado contínuo.
